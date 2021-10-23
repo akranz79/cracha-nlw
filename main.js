@@ -1,8 +1,8 @@
 const LinksSocialMedia = {
   github: 'akranz79',
-  youtube: 'dalila',
+  youtube: 'dalilaUC1WRr5kwU2lSwCu6HMLlCpg',
   facebook: 'ahkranz79',
-  instagram: 'dali.labellorin',
+  instagram: '_henryseth',
   twitter: 'Alexand20297572'
 }
 
