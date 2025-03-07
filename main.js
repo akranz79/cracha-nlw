@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'akranz79',
-  youtube: 'dalilaUC1WRr5kwU2lSwCu6HMLlCpg',
+  youtube: '@alexandrekranz',
   facebook: 'ahkranz79',
-  instagram: '_henryseth',
-  twitter: 'Alexand20297572'
+  instagram: 'alexandre.kranz',
+  linkdin: 'linkedin.com/in/akranz'
 }
 
 function changeSocialMediaLinks() {
